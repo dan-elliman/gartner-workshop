@@ -1,9 +1,9 @@
 <div align="center">
-    <img src="images/audacy.png" width=50% height=50%>
+    <img src="images/audacy.png" width=30% height=50%>
 </div>
 
 <div align="center">
-    <img src="images/confluent.png" width=50% height=50%>
+    <img src="images/confluent.png" width=30% height=50%>
 </div>
 
 # <div align="center">Sheetz | Confluent Workshop repository</div>
