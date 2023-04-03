@@ -23,7 +23,7 @@ This workshop is perfect for those looking to get started with Confluent Cloud a
 
 | Topic |  Time  | Speaker |
 | --- |  ---  | --- |
-| Workshop Kickoff and Introductions|  8:00 - 8:30  | Gartner |
+| Workshop Kickoff and Introductions|  8:00 - 8:30  | Gartner & Confluent |
 | Review Gartner Use Cases |  8:30 - 9:00  | Gartner team |
 | Break |  9:00-9:15  |  |
 | Hands on Workshop Demo |  9:15 - 10:00  | Ravi Appalla/Qi Yang - Confluent |
