@@ -40,8 +40,7 @@ This workshop is perfect for those looking to get started with Confluent Cloud a
 | Break |  9:00 - 9:15  |  |
 | Networking & Security |  9:15 - 10:00  |  Qi Yang - Confluent  |
 | Stream Lineage and Data Governance |  10:00 - 11:00  | Vahid Fereydouny, Product Manager  |
-| Observability and Monitoring |  11:00 - 11:30  | Dustin Cote, Product Manager  |
-| Q&A and Workshop wrap-up |  11:30 - 12:00  | Eric Langan / Qi Yang - Confluent |
+| Q&A and Workshop wrap-up |  11:00 - 11:30  | Eric Langan / Qi Yang - Confluent |
 
 ## Topics Covered in the Demo and Workshop:
 1. [Log into Confluent Cloud](#step-1)
